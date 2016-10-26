@@ -1,5 +1,5 @@
 <?php
-//确保在连接客户端时不会超时
+//确保在连接客户端时不会超时    ffff ffffffff
 set_time_limit(0);
 
 $ip = '127.0.0.1';
